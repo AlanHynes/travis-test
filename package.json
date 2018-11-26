@@ -1,6 +1,22 @@
 {
-	"name": "agileTravis",
-	"version": "0.01",
-	"description": "testing travis with javascript",
-	"main": "serverTest.js"
+  "name": "agiletest",
+  "version": "1.0.0",
+  "description": "Testing travis ci with a javascript program",
+  "main": "serverTest.js",
+  "scripts": {
+    "test": "node serverTest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanHynes/travis-test.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "Alan Hynes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanHynes/travis-test/issues"
+  },
+  "homepage": "https://github.com/AlanHynes/travis-test#readme"
 }
