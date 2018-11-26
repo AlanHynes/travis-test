@@ -4,7 +4,7 @@
   "description": "Testing travis ci with a javascript program",
   "main": "serverTest.js",
   "scripts": {
-    "test": "node serverTest.js"
+    "test": "serverTest --spec"
   },
   "repository": {
     "type": "git",
