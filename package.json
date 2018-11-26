@@ -2,5 +2,5 @@
 	"name": "agileTravis",
 	"version": "0.01",
 	"description": "testing travis with javascript",
-	"main": "serverTest.js",
+	"main": "serverTest.js"
 }
