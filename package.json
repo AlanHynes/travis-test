@@ -4,7 +4,7 @@
   "description": "testing travis",
   "main": "serverTest.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "serverTest.js"
   },
   "repository": {
     "type": "git",
