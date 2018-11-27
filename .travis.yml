@@ -2,8 +2,9 @@ os: windows
 language: node_js
 node_js:
   #- "iojs"
-  - 7
-  - 10
-  - node
+- 7
+- 10
+- 11
+- node
 script:
-    - npm serverTest
+- npm serverTest
