@@ -2,9 +2,7 @@
   "name": "agiletest",
   "version": "1.0.0",
   "description": "Testing travis ci with a javascript program",
-  "main": "serverTest.js",
-  "scripts": {
-    "test": "serverTest --spec"
+  "main": "serverTest.js"
   },
   "repository": {
     "type": "git",
