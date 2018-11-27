@@ -6,5 +6,3 @@ node_js:
 - 10
 - 11
 - node
-script:
-- npm serverTest
