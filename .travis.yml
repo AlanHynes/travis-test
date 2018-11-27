@@ -1,5 +1,6 @@
 os: windows
 language: node_js
+script: sudo $(which npm) test
 node_js:
   #- "iojs"
 - 7
