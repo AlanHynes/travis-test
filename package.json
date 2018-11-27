@@ -4,7 +4,7 @@
   "description": "testing travis",
   "main": "serverTest.js",
   "scripts": {
-    "test": "serverTest --spec"
+    "test": "serverTest --server"
   },
   "repository": {
     "type": "git",
