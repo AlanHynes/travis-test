@@ -1,17 +1,20 @@
 {
   "name": "agiletest",
   "version": "1.0.0",
-  "description": "Testing travis ci with a javascript program",
-  "main": "serverTest.js"
+  "description": "testing travis",
+  "main": "serverTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AlanHynes/travis-test.git"
   },
   "keywords": [
-    "testing"
+    "testing",
+    "javascript"
   ],
-  "author": "Alan Hynes",
+  "author": "alan hynes",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AlanHynes/travis-test/issues"
