@@ -2,7 +2,7 @@
   "name": "agiletest",
   "version": "1.0.0",
   "description": "testing travis",
-  "main": "serverTest.js",
+  "main": "npm run validate",
   "scripts": {
     "test": "serverTest.js "},
   "repository": {
